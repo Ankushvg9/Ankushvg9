@@ -51,6 +51,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/Ankushvg9/Ankushvg9/blob/output/github-snake-dark.svg)
 
 ###
